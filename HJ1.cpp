@@ -4,7 +4,7 @@ int main()
 {
     char str[5010];
     while (scanf("%s",str)!=EOF)
-        scanf("%s");
+        scanf("%s",str);
     printf("%d",strlen(str));
     return 0;
 }
